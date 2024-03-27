@@ -1,4 +1,3 @@
-# Exercise 2 
 import turtle
 
 flo = turtle.Turtle()
